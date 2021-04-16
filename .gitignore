@@ -1,0 +1,3 @@
+.gcloudingore
+/vendor/
+*.txt

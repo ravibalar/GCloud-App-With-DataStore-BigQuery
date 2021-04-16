@@ -1,0 +1,9 @@
+indexes:
+  - kind: Message
+    ancestor: no
+    properties:
+      - name: creator_id
+        direction: desc
+      - name: posttime
+        direction: desc
+

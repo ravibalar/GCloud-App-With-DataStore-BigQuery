@@ -1,0 +1,13 @@
+{
+    "require": {
+        "google/cloud-bigquery": "^1.21",
+        "silex/silex": "^2.3",
+        "google/cloud-datastore": "^1.0",
+        "google/cloud-storage": "^1.0"
+    },
+    "config": {
+        "platform": {
+            "php": "7.3"
+        }
+    }
+}
